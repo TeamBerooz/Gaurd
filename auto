@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+screen -dmS Api ./Ramin autoapi
+screen -dmS Helper ./Ramin autohelper
+screen -dmS Helper ./Ramin autocli
+
+
+  
